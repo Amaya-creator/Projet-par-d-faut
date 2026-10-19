@@ -1,0 +1,376 @@
+﻿date,client,categorie,quantite,prix_unitaire_mad,cout_unitaire_mad,montant_mad
+2026-02-01,Clients de passage,Miel,2,131.18,86.49,262.36
+2026-02-03,Clients de passage,Huile d'argan,1,122.95,69.2,122.95
+2026-02-03,Clients de passage,Miel,2,144.29,94.01,288.58
+2026-02-04,Clients de passage,Miel,4,145.57,96.7,582.28
+2026-02-04,Clients de passage,Amandes,3,95.47,66.81,286.41
+2026-02-05,Clients de passage,Miel,1,141.06,96.36,141.06
+2026-02-05,Clients de passage,Miel,2,176.16,118.17,352.32
+2026-02-06,Clients de passage,Huile d'argan,4,121.31,68.89,485.24
+2026-02-06,Clients de passage,Huile d'argan,3,117.75,68.87,353.25
+2026-02-09,Clients de passage,Huile d'argan,3,165.31,106.16,495.93
+2026-02-10,Clients de passage,Miel,3,132.18,86.53,396.54
+2026-02-10,Clients de passage,Huile d'argan,2,119.0,69.3,238.0
+2026-02-11,Clients de passage,Huile d'argan,2,122.7,70.64,245.4
+2026-02-11,Clients de passage,Miel,2,185.19,118.17,370.38
+2026-02-12,Clients de passage,Miel,4,128.77,89.53,515.08
+2026-02-12,Clients de passage,Huile d'argan,1,169.57,103.23,169.57
+2026-02-13,Clients de passage,Miel,3,178.38,119.98,535.14
+2026-02-13,Clients de passage,Huile d'argan,1,168.37,106.87,168.37
+2026-02-14,Clients de passage,Amandes,3,92.52,68.63,277.56
+2026-02-14,Clients de passage,Miel,3,180.84,120.87,542.52
+2026-02-15,Clients de passage,Miel,3,178.77,120.81,536.31
+2026-02-15,Clients de passage,Miel,2,143.74,95.42,287.48
+2026-02-16,Clients de passage,Miel,2,129.15,89.31,258.3
+2026-02-16,Clients de passage,Miel,1,147.33,93.59,147.33
+2026-02-18,Clients de passage,Huile d'argan,2,165.49,106.61,330.98
+2026-02-19,Clients de passage,Huile d'argan,1,121.49,71.36,121.49
+2026-02-19,Clients de passage,Amandes,2,97.61,67.05,195.22
+2026-02-20,Clients de passage,Miel,1,131.24,86.28,131.24
+2026-02-21,Clients de passage,Miel,1,174.64,119.61,174.64
+2026-02-22,Clients de passage,Huile d'argan,2,118.69,68.95,237.38
+2026-02-24,Clients de passage,Amandes,4,95.34,67.72,381.36
+2026-02-24,Clients de passage,Huile d'argan,1,164.82,104.58,164.82
+2026-02-25,Clients de passage,Miel,1,144.48,93.52,144.48
+2026-03-01,Clients de passage,Huile d'argan,1,123.23,70.32,123.23
+2026-03-03,Clients de passage,Huile d'argan,2,117.47,69.31,234.94
+2026-03-04,Clients de passage,Huile d'argan,1,119.81,68.92,119.81
+2026-03-04,Clients de passage,Huile d'argan,2,164.81,104.21,329.62
+2026-03-05,Clients de passage,Miel,3,143.63,94.11,430.89
+2026-03-06,Clients de passage,Huile d'argan,1,117.88,71.27,117.88
+2026-03-07,Clients de passage,Miel,3,130.34,86.34,391.02
+2026-03-07,Clients de passage,Huile d'argan,1,123.45,71.02,123.45
+2026-03-08,Clients de passage,Huile d'argan,1,122.94,69.6,122.94
+2026-03-08,Clients de passage,Miel,2,130.32,88.01,260.64
+2026-03-09,Clients de passage,Huile d'argan,4,122.08,70.72,488.32
+2026-03-10,Clients de passage,Miel,4,129.23,89.07,516.92
+2026-03-11,Clients de passage,Huile d'argan,2,118.96,68.68,237.92
+2026-03-13,Clients de passage,Miel,2,183.33,121.07,366.66
+2026-03-13,Clients de passage,Huile d'argan,1,161.97,105.44,161.97
+2026-03-14,Clients de passage,Miel,1,176.98,118.69,176.98
+2026-03-14,Clients de passage,Miel,1,127.69,88.44,127.69
+2026-03-16,Clients de passage,Amandes,1,96.71,66.87,96.71
+2026-03-16,Clients de passage,Amandes,1,97.34,68.77,97.34
+2026-03-16,Clients de passage,Miel,2,133.03,87.77,266.06
+2026-03-17,Clients de passage,Miel,4,148.88,95.84,595.52
+2026-03-17,Clients de passage,Huile d'argan,2,167.41,103.26,334.82
+2026-03-18,Clients de passage,Miel,1,126.31,88.32,126.31
+2026-03-19,Clients de passage,Amandes,1,95.64,68.26,95.64
+2026-03-19,Clients de passage,Huile d'argan,3,169.33,103.55,507.99
+2026-03-19,Clients de passage,Huile d'argan,1,116.55,70.84,116.55
+2026-03-21,Clients de passage,Huile d'argan,4,161.98,106.57,647.92
+2026-03-23,Clients de passage,Miel,1,130.01,88.93,130.01
+2026-03-23,Clients de passage,Miel,1,180.48,121.6,180.48
+2026-03-25,Clients de passage,Huile d'argan,3,165.83,106.7,497.49
+2026-03-25,Clients de passage,Huile d'argan,4,169.14,105.01,676.56
+2026-03-26,Clients de passage,Huile d'argan,2,116.53,69.83,233.06
+2026-03-27,Clients de passage,Huile d'argan,1,121.99,69.02,121.99
+2026-03-28,Clients de passage,Huile d'argan,2,167.23,105.24,334.46
+2026-03-29,Clients de passage,Amandes,2,95.18,67.95,190.36
+2026-03-29,Clients de passage,Miel,2,141.14,93.83,282.28
+2026-04-01,Clients de passage,Huile d'argan,4,119.84,71.24,479.36
+2026-04-01,Clients de passage,Huile d'argan,1,121.39,69.87,121.39
+2026-04-01,Clients de passage,Huile d'argan,1,166.11,105.02,166.11
+2026-04-01,Clients de passage,Huile d'argan,1,121.87,71.15,121.87
+2026-04-02,Clients de passage,Huile d'argan,1,122.45,68.98,122.45
+2026-04-02,Clients de passage,Miel,2,144.5,93.38,289.0
+2026-04-03,Clients de passage,Huile d'argan,1,162.16,104.17,162.16
+2026-04-05,Clients de passage,Amandes,3,95.91,67.03,287.73
+2026-04-06,Clients de passage,Huile d'argan,1,167.44,103.3,167.44
+2026-04-07,Clients de passage,Miel,3,132.59,86.81,397.77
+2026-04-07,Clients de passage,Huile d'argan,2,164.05,104.67,328.1
+2026-04-07,Clients de passage,Miel,1,175.6,119.36,175.6
+2026-04-07,Clients de passage,Miel,2,179.55,120.98,359.1
+2026-04-08,Clients de passage,Miel,1,132.0,89.13,132.0
+2026-04-08,Clients de passage,Miel,1,142.96,93.25,142.96
+2026-04-08,Clients de passage,Miel,2,181.34,120.06,362.68
+2026-04-08,Clients de passage,Miel,1,149.22,96.1,149.22
+2026-04-09,Clients de passage,Huile d'argan,1,165.36,105.06,165.36
+2026-04-09,Clients de passage,Huile d'argan,3,163.29,104.07,489.87
+2026-04-10,Clients de passage,Huile d'argan,1,162.71,102.97,162.71
+2026-04-12,Clients de passage,Miel,2,148.1,93.35,296.2
+2026-04-12,Clients de passage,Miel,2,140.75,96.88,281.5
+2026-04-13,Clients de passage,Huile d'argan,4,117.88,69.85,471.52
+2026-04-13,Clients de passage,Miel,1,133.37,88.45,133.37
+2026-04-13,Clients de passage,Miel,1,133.66,87.16,133.66
+2026-04-13,Clients de passage,Miel,2,176.0,120.13,352.0
+2026-04-14,Clients de passage,Miel,1,183.28,122.37,183.28
+2026-04-18,Clients de passage,Huile d'argan,2,118.17,69.85,236.34
+2026-04-19,Clients de passage,Amandes,2,95.26,69.06,190.52
+2026-04-19,Clients de passage,Huile d'argan,1,121.35,71.35,121.35
+2026-04-19,Clients de passage,Miel,1,183.59,120.99,183.59
+2026-04-20,Clients de passage,Huile d'argan,1,169.77,106.42,169.77
+2026-04-23,Clients de passage,Huile d'argan,1,160.6,105.69,160.6
+2026-04-23,Clients de passage,Huile d'argan,4,165.06,106.98,660.24
+2026-04-24,Clients de passage,Amandes,1,92.41,67.14,92.41
+2026-04-25,Clients de passage,Huile d'argan,1,118.16,71.3,118.16
+2026-04-25,Clients de passage,Huile d'argan,1,162.66,106.94,162.66
+2026-04-26,Clients de passage,Miel,1,127.53,87.42,127.53
+2026-04-26,Clients de passage,Miel,2,143.08,95.59,286.16
+2026-04-27,Clients de passage,Huile d'argan,4,116.44,69.34,465.76
+2026-04-29,Clients de passage,Huile d'argan,2,160.46,102.99,320.92
+2026-04-30,Clients de passage,Amandes,1,92.63,69.24,92.63
+2026-04-30,Clients de passage,Miel,3,133.06,89.0,399.18
+2026-05-01,Clients de passage,Miel,3,185.24,118.32,555.72
+2026-05-01,Clients de passage,Amandes,2,95.82,66.76,191.64
+2026-05-01,Clients de passage,Amandes,2,95.73,68.64,191.46
+2026-05-01,Clients de passage,Huile d'argan,1,122.95,70.71,122.95
+2026-05-03,Clients de passage,Miel,1,141.01,95.52,141.01
+2026-05-05,Clients de passage,Huile d'argan,2,160.55,102.98,321.1
+2026-05-05,Clients de passage,Huile d'argan,3,118.16,69.34,354.48
+2026-05-05,Clients de passage,Huile d'argan,4,160.74,106.82,642.96
+2026-05-05,Clients de passage,Huile d'argan,1,121.15,68.78,121.15
+2026-05-06,Clients de passage,Miel,4,175.4,118.87,701.6
+2026-05-06,Clients de passage,Amandes,4,93.32,68.65,373.28
+2026-05-06,Clients de passage,Huile d'argan,2,168.42,103.22,336.84
+2026-05-06,Clients de passage,Amandes,1,96.52,68.32,96.52
+2026-05-07,Clients de passage,Miel,2,141.93,94.06,283.86
+2026-05-08,Clients de passage,Huile d'argan,1,169.68,103.32,169.68
+2026-05-08,Clients de passage,Miel,3,129.92,88.74,389.76
+2026-05-08,Clients de passage,Huile d'argan,2,117.36,69.95,234.72
+2026-05-09,Clients de passage,Huile d'argan,2,164.67,103.4,329.34
+2026-05-09,Clients de passage,Huile d'argan,1,118.64,68.84,118.64
+2026-05-09,Clients de passage,Huile d'argan,1,162.92,103.22,162.92
+2026-05-10,Clients de passage,Miel,2,176.87,122.14,353.74
+2026-05-10,Clients de passage,Miel,1,130.64,86.74,130.64
+2026-05-10,Clients de passage,Huile d'argan,1,123.26,68.97,123.26
+2026-05-11,Clients de passage,Miel,3,143.83,94.99,431.49
+2026-05-11,Clients de passage,Huile d'argan,2,160.3,102.92,320.6
+2026-05-11,Clients de passage,Huile d'argan,3,164.51,104.17,493.53
+2026-05-12,Clients de passage,Huile d'argan,1,163.77,103.41,163.77
+2026-05-13,Clients de passage,Miel,1,178.62,119.49,178.62
+2026-05-13,Clients de passage,Miel,1,147.18,96.29,147.18
+2026-05-13,Clients de passage,Miel,1,146.85,96.53,146.85
+2026-05-15,Clients de passage,Huile d'argan,4,162.77,103.1,651.08
+2026-05-15,Clients de passage,Miel,1,147.91,94.19,147.91
+2026-05-15,Clients de passage,Miel,1,133.67,87.78,133.67
+2026-05-16,Clients de passage,Miel,4,129.01,89.61,516.04
+2026-05-16,Clients de passage,Miel,4,147.28,94.62,589.12
+2026-05-16,Clients de passage,Huile d'argan,2,117.86,68.83,235.72
+2026-05-17,Clients de passage,Huile d'argan,2,167.5,105.61,335.0
+2026-05-17,Clients de passage,Miel,2,175.13,122.05,350.26
+2026-05-17,Clients de passage,Miel,1,129.78,87.45,129.78
+2026-05-18,Clients de passage,Amandes,2,92.83,68.39,185.66
+2026-05-18,Clients de passage,Miel,3,182.58,120.73,547.74
+2026-05-18,Clients de passage,Huile d'argan,3,162.41,104.93,487.23
+2026-05-20,Clients de passage,Huile d'argan,4,119.98,69.22,479.92
+2026-05-21,Clients de passage,Huile d'argan,2,161.43,103.71,322.86
+2026-05-21,Clients de passage,Miel,1,143.63,93.45,143.63
+2026-05-21,Clients de passage,Miel,1,128.12,88.25,128.12
+2026-05-23,Clients de passage,Amandes,4,97.07,67.23,388.28
+2026-05-23,Clients de passage,Huile d'argan,2,167.43,103.78,334.86
+2026-05-23,Clients de passage,Miel,1,182.72,119.99,182.72
+2026-05-23,Clients de passage,Huile d'argan,1,117.31,70.01,117.31
+2026-05-24,Clients de passage,Miel,4,183.39,122.25,733.56
+2026-05-24,Clients de passage,Miel,2,129.22,87.81,258.44
+2026-05-25,Clients de passage,Miel,2,146.82,96.5,293.64
+2026-05-26,Clients de passage,Huile d'argan,2,116.4,69.7,232.8
+2026-05-26,Clients de passage,Huile d'argan,4,119.77,69.86,479.08
+2026-05-26,Clients de passage,Miel,1,141.99,95.08,141.99
+2026-05-26,Clients de passage,Amandes,1,97.52,68.6,97.52
+2026-05-27,Clients de passage,Miel,2,147.41,93.11,294.82
+2026-05-27,Clients de passage,Miel,1,130.54,86.37,130.54
+2026-05-27,Clients de passage,Amandes,1,97.64,68.34,97.64
+2026-05-27,Clients de passage,Huile d'argan,3,119.55,70.74,358.65
+2026-05-30,Clients de passage,Huile d'argan,1,169.54,105.61,169.54
+2026-05-30,Clients de passage,Huile d'argan,2,117.78,69.33,235.56
+2026-05-30,Clients de passage,Huile d'argan,1,116.48,69.44,116.48
+2026-05-31,Clients de passage,Huile d'argan,2,162.37,103.94,324.74
+2026-06-01,Clients de passage,Amandes,3,93.9,66.7,281.7
+2026-06-01,Clients de passage,Huile d'argan,3,166.46,103.24,499.38
+2026-06-01,Clients de passage,Miel,3,129.41,87.54,388.23
+2026-06-02,Clients de passage,Amandes,4,95.03,67.2,380.12
+2026-06-02,Clients de passage,Miel,3,143.59,94.7,430.77
+2026-06-02,Clients de passage,Amandes,2,93.28,68.81,186.56
+2026-06-03,Clients de passage,Miel,4,183.46,118.71,733.84
+2026-06-04,Clients de passage,Miel,4,184.2,118.12,736.8
+2026-06-05,Clients de passage,Amandes,1,97.56,67.04,97.56
+2026-06-05,Clients de passage,Huile d'argan,1,162.16,106.99,162.16
+2026-06-05,Clients de passage,Huile d'argan,1,122.85,69.96,122.85
+2026-06-06,Clients de passage,Huile d'argan,1,167.08,103.67,167.08
+2026-06-07,Clients de passage,Amandes,1,96.33,69.35,96.33
+2026-06-07,Clients de passage,Miel,1,127.59,88.54,127.59
+2026-06-08,Clients de passage,Miel,1,146.43,94.54,146.43
+2026-06-08,Clients de passage,Miel,1,179.38,118.12,179.38
+2026-06-08,Clients de passage,Miel,1,141.35,94.7,141.35
+2026-06-10,Clients de passage,Huile d'argan,1,167.66,104.2,167.66
+2026-06-11,Clients de passage,Huile d'argan,2,117.79,69.62,235.58
+2026-06-11,Clients de passage,Huile d'argan,1,166.3,103.94,166.3
+2026-06-11,Clients de passage,Miel,1,146.79,93.84,146.79
+2026-06-12,Clients de passage,Miel,2,140.95,93.34,281.9
+2026-06-12,Clients de passage,Miel,1,142.35,93.34,142.35
+2026-06-12,Clients de passage,Huile d'argan,1,119.01,69.54,119.01
+2026-06-14,Clients de passage,Amandes,3,96.08,69.15,288.24
+2026-06-15,Clients de passage,Miel,3,147.22,96.58,441.66
+2026-06-15,Clients de passage,Amandes,1,92.29,67.28,92.29
+2026-06-16,Clients de passage,Amandes,2,97.59,67.69,195.18
+2026-06-16,Clients de passage,Miel,2,183.4,118.24,366.8
+2026-06-16,Clients de passage,Huile d'argan,1,160.14,106.81,160.14
+2026-06-17,Clients de passage,Amandes,4,93.01,67.28,372.04
+2026-06-17,Clients de passage,Miel,2,178.51,121.35,357.02
+2026-06-19,Clients de passage,Huile d'argan,4,161.63,104.61,646.52
+2026-06-21,Clients de passage,Huile d'argan,2,118.75,71.34,237.5
+2026-06-21,Clients de passage,Miel,1,142.95,93.42,142.95
+2026-06-23,Clients de passage,Huile d'argan,3,169.67,103.63,509.01
+2026-06-23,Clients de passage,Miel,2,129.7,89.38,259.4
+2026-06-23,Clients de passage,Miel,3,130.3,88.96,390.9
+2026-06-25,Clients de passage,Miel,1,180.72,119.39,180.72
+2026-06-25,Clients de passage,Amandes,1,93.29,67.31,93.29
+2026-06-26,Clients de passage,Miel,1,128.29,89.43,128.29
+2026-06-27,Clients de passage,Miel,1,178.88,122.36,178.88
+2026-06-28,Clients de passage,Amandes,4,92.72,67.9,370.88
+2026-07-02,Clients de passage,Miel,1,175.89,118.51,175.89
+2026-07-02,Clients de passage,Miel,4,129.6,87.56,518.4
+2026-07-03,Clients de passage,Miel,1,145.11,93.78,145.11
+2026-07-04,Clients de passage,Amandes,1,92.75,68.26,92.75
+2026-07-04,Clients de passage,Huile d'argan,1,117.97,69.63,117.97
+2026-07-05,Clients de passage,Miel,1,149.35,93.25,149.35
+2026-07-06,Clients de passage,Miel,4,143.5,95.68,574.0
+2026-07-07,Clients de passage,Huile d'argan,1,116.96,68.69,116.96
+2026-07-08,Clients de passage,Huile d'argan,2,116.86,68.88,233.72
+2026-07-08,Clients de passage,Huile d'argan,3,165.5,105.58,496.5
+2026-07-10,Clients de passage,Huile d'argan,3,162.73,107.05,488.19
+2026-07-11,Clients de passage,Huile d'argan,1,163.14,105.28,163.14
+2026-07-11,Clients de passage,Miel,2,179.1,121.75,358.2
+2026-07-12,Clients de passage,Amandes,1,94.38,67.74,94.38
+2026-07-14,Clients de passage,Miel,2,126.99,86.56,253.98
+2026-07-14,Clients de passage,Huile d'argan,1,119.72,69.06,119.72
+2026-07-17,Clients de passage,Amandes,4,97.34,66.88,389.36
+2026-07-18,Clients de passage,Amandes,2,93.13,67.59,186.26
+2026-07-18,Clients de passage,Miel,2,127.44,86.48,254.88
+2026-07-19,Clients de passage,Huile d'argan,4,168.02,106.96,672.08
+2026-07-19,Clients de passage,Miel,1,127.09,89.56,127.09
+2026-07-20,Clients de passage,Miel,1,181.16,120.65,181.16
+2026-07-20,Clients de passage,Miel,3,146.05,96.23,438.15
+2026-07-21,Clients de passage,Amandes,4,97.03,68.33,388.12
+2026-07-22,Clients de passage,Huile d'argan,1,165.65,103.08,165.65
+2026-07-23,Clients de passage,Huile d'argan,1,161.27,103.94,161.27
+2026-07-24,Clients de passage,Miel,2,147.98,95.65,295.96
+2026-07-25,Clients de passage,Miel,2,145.87,95.19,291.74
+2026-07-25,Clients de passage,Amandes,4,93.9,67.78,375.6
+2026-07-26,Clients de passage,Huile d'argan,2,166.57,104.78,333.14
+2026-07-27,Clients de passage,Miel,1,126.13,89.71,126.13
+2026-07-27,Clients de passage,Huile d'argan,1,164.47,105.5,164.47
+2026-07-28,Clients de passage,Miel,4,129.79,86.62,519.16
+2026-07-28,Clients de passage,Miel,1,129.46,86.56,129.46
+2026-07-29,Clients de passage,Huile d'argan,2,121.13,68.71,242.26
+2026-07-29,Clients de passage,Miel,1,133.29,87.34,133.29
+2026-08-01,Clients de passage,Miel,2,128.35,89.09,256.7
+2026-08-01,Clients de passage,Huile d'argan,3,121.39,68.91,364.17
+2026-08-01,Clients de passage,Amandes,4,92.93,68.97,371.72
+2026-08-02,Clients de passage,Amandes,4,96.26,67.24,385.04
+2026-08-03,Clients de passage,Huile d'argan,4,118.22,69.51,472.88
+2026-08-03,Clients de passage,Huile d'argan,1,122.92,69.88,122.92
+2026-08-04,Clients de passage,Huile d'argan,2,117.9,69.34,235.8
+2026-08-04,Clients de passage,Huile d'argan,1,118.7,68.7,118.7
+2026-08-05,Clients de passage,Huile d'argan,1,166.35,104.07,166.35
+2026-08-06,Clients de passage,Huile d'argan,1,167.89,104.01,167.89
+2026-08-06,Clients de passage,Huile d'argan,1,120.98,69.61,120.98
+2026-08-07,Clients de passage,Miel,1,149.29,95.49,149.29
+2026-08-07,Clients de passage,Huile d'argan,3,167.95,104.01,503.85
+2026-08-07,Clients de passage,Huile d'argan,2,120.58,71.07,241.16
+2026-08-08,Clients de passage,Huile d'argan,1,118.99,70.74,118.99
+2026-08-08,Clients de passage,Huile d'argan,1,161.8,106.02,161.8
+2026-08-10,Clients de passage,Huile d'argan,1,118.63,71.3,118.63
+2026-08-10,Clients de passage,Huile d'argan,3,122.85,70.65,368.55
+2026-08-12,Clients de passage,Miel,1,130.91,87.76,130.91
+2026-08-13,Clients de passage,Miel,1,144.9,95.43,144.9
+2026-08-13,Clients de passage,Miel,1,141.12,95.26,141.12
+2026-08-14,Clients de passage,Miel,2,143.76,93.95,287.52
+2026-08-14,Clients de passage,Huile d'argan,1,120.64,69.17,120.64
+2026-08-15,Clients de passage,Miel,4,131.29,87.19,525.16
+2026-08-15,Clients de passage,Amandes,1,94.72,66.81,94.72
+2026-08-15,Clients de passage,Miel,1,126.21,89.06,126.21
+2026-08-16,Clients de passage,Miel,1,146.26,95.24,146.26
+2026-08-17,Clients de passage,Huile d'argan,3,120.57,70.29,361.71
+2026-08-17,Clients de passage,Huile d'argan,3,119.95,69.06,359.85
+2026-08-22,Clients de passage,Miel,1,127.34,89.45,127.34
+2026-08-22,Clients de passage,Miel,1,145.98,95.6,145.98
+2026-08-22,Clients de passage,Miel,1,129.32,88.06,129.32
+2026-08-23,Clients de passage,Huile d'argan,1,120.06,68.78,120.06
+2026-08-23,Clients de passage,Amandes,1,97.82,68.61,97.82
+2026-08-24,Clients de passage,Amandes,2,92.61,68.42,185.22
+2026-08-24,Clients de passage,Miel,1,133.87,87.16,133.87
+2026-08-24,Clients de passage,Amandes,2,92.19,68.94,184.38
+2026-08-27,Clients de passage,Amandes,3,97.52,67.36,292.56
+2026-08-27,Clients de passage,Miel,1,146.18,95.68,146.18
+2026-08-28,Clients de passage,Miel,3,184.63,121.89,553.89
+2026-08-28,Clients de passage,Miel,2,140.78,94.09,281.56
+2026-08-29,Clients de passage,Amandes,1,97.53,68.67,97.53
+2026-08-30,Clients de passage,Miel,2,128.66,87.08,257.32
+2026-08-31,Clients de passage,Miel,4,176.89,120.59,707.56
+2026-08-31,Clients de passage,Huile d'argan,4,165.3,102.93,661.2
+2026-08-31,Clients de passage,Miel,2,148.96,93.99,297.92
+2026-09-02,Clients de passage,Miel,1,126.31,86.62,126.31
+2026-09-03,Clients de passage,Miel,1,182.17,117.75,182.17
+2026-09-04,Clients de passage,Amandes,3,95.76,68.54,287.28
+2026-09-07,Clients de passage,Miel,4,133.55,88.12,534.2
+2026-09-07,Clients de passage,Amandes,1,97.16,68.7,97.16
+2026-09-08,Clients de passage,Miel,1,142.44,93.53,142.44
+2026-09-08,Clients de passage,Miel,4,148.58,95.96,594.32
+2026-09-08,Clients de passage,Miel,4,147.19,95.5,588.76
+2026-09-09,Clients de passage,Miel,1,141.5,95.98,141.5
+2026-09-09,Clients de passage,Miel,1,128.59,87.73,128.59
+2026-09-09,Clients de passage,Miel,1,142.88,94.17,142.88
+2026-09-10,Clients de passage,Miel,2,182.65,121.39,365.3
+2026-09-10,Clients de passage,Miel,4,185.01,120.02,740.04
+2026-09-12,Clients de passage,Huile d'argan,4,117.11,69.91,468.44
+2026-09-12,Clients de passage,Miel,2,145.58,95.81,291.16
+2026-09-12,Clients de passage,Miel,2,147.78,93.75,295.56
+2026-09-14,Clients de passage,Miel,4,182.71,117.86,730.84
+2026-09-15,Clients de passage,Huile d'argan,1,164.92,106.25,164.92
+2026-09-15,Clients de passage,Miel,2,130.72,89.61,261.44
+2026-09-16,Clients de passage,Huile d'argan,1,118.44,69.2,118.44
+2026-09-16,Clients de passage,Amandes,1,94.99,66.94,94.99
+2026-09-18,Clients de passage,Miel,1,178.93,119.49,178.93
+2026-09-18,Clients de passage,Amandes,2,96.64,68.35,193.28
+2026-09-18,Clients de passage,Amandes,1,94.56,68.4,94.56
+2026-09-19,Clients de passage,Huile d'argan,1,119.13,71.08,119.13
+2026-09-19,Clients de passage,Miel,1,128.15,89.41,128.15
+2026-09-20,Clients de passage,Huile d'argan,1,165.31,106.07,165.31
+2026-09-22,Clients de passage,Huile d'argan,1,120.16,71.03,120.16
+2026-09-22,Clients de passage,Huile d'argan,3,165.53,104.26,496.59
+2026-09-23,Clients de passage,Huile d'argan,3,167.71,105.33,503.13
+2026-09-23,Clients de passage,Miel,1,129.7,89.36,129.7
+2026-09-23,Clients de passage,Miel,2,127.59,87.3,255.18
+2026-09-24,Clients de passage,Amandes,1,97.71,68.61,97.71
+2026-09-25,Clients de passage,Miel,1,128.66,86.91,128.66
+2026-09-25,Clients de passage,Amandes,1,93.09,68.43,93.09
+2026-09-26,Clients de passage,Huile d'argan,1,169.79,106.24,169.79
+2026-09-27,Clients de passage,Huile d'argan,1,161.99,105.58,161.99
+2026-09-29,Clients de passage,Miel,2,129.72,86.28,259.44
+2026-09-29,Clients de passage,Huile d'argan,3,162.25,107.02,486.75
+2026-09-30,Clients de passage,Huile d'argan,1,161.45,105.44,161.45
+2026-09-30,Clients de passage,Huile d'argan,1,167.39,106.71,167.39
+2026-10-01,Clients de passage,Amandes,2,95.5,68.4,191.0
+2026-10-01,Clients de passage,Miel,3,131.73,89.34,395.19
+2026-10-01,Clients de passage,Amandes,3,95.48,67.26,286.44
+2026-10-02,Clients de passage,Amandes,1,94.74,67.49,94.74
+2026-10-04,Clients de passage,Miel,4,129.22,88.75,516.88
+2026-10-04,Clients de passage,Miel,1,132.73,87.94,132.73
+2026-10-06,Clients de passage,Huile d'argan,1,160.43,105.18,160.43
+2026-10-06,Clients de passage,Huile d'argan,3,121.16,71.04,363.48
+2026-10-06,Clients de passage,Amandes,1,96.59,67.7,96.59
+2026-10-07,Clients de passage,Amandes,4,97.57,67.18,390.28
+2026-10-08,Clients de passage,Miel,4,145.65,95.16,582.6
+2026-10-08,Clients de passage,Amandes,2,95.07,68.38,190.14
+2026-10-09,Clients de passage,Huile d'argan,1,119.35,71.25,119.35
+2026-10-09,Clients de passage,Miel,3,127.53,88.05,382.59
+2026-10-11,Clients de passage,Amandes,1,93.59,67.68,93.59
+2026-10-11,Clients de passage,Miel,1,141.3,96.58,141.3
+2026-10-12,Clients de passage,Huile d'argan,2,169.67,107.08,339.34
+2026-10-12,Clients de passage,Huile d'argan,1,117.19,69.45,117.19
+2026-10-13,Clients de passage,Huile d'argan,1,161.68,106.8,161.68
+2026-10-13,Clients de passage,Miel,4,147.6,93.83,590.4
+2026-10-13,Clients de passage,Amandes,2,96.26,68.86,192.52
+2026-10-14,Clients de passage,Miel,3,181.5,121.53,544.5
+2026-10-15,Clients de passage,Huile d'argan,1,167.57,105.63,167.57
+2026-10-15,Clients de passage,Huile d'argan,1,167.81,103.87,167.81
+2026-10-15,Clients de passage,Amandes,2,96.07,69.31,192.14
+2026-10-16,Clients de passage,Huile d'argan,1,168.02,106.26,168.02
+2026-10-17,Clients de passage,Miel,3,128.45,87.93,385.35
+2026-10-17,Clients de passage,Huile d'argan,2,166.36,105.67,332.72
+2026-10-18,Clients de passage,Miel,1,132.76,86.44,132.76
+2026-10-18,Clients de passage,Huile d'argan,1,122.05,68.99,122.05
+2026-10-19,Clients de passage,Amandes,2,92.24,66.67,184.48
+2026-10-19,Clients de passage,Miel,3,143.2,95.41,429.6

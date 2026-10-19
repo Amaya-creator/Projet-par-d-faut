@@ -1,0 +1,17 @@
+{
+  "entreprise": "Coopérative Tiznit Miel",
+  "ville": "Tiznit",
+  "type_entreprise": "Coopérative agricole",
+  "date_reference": "2026-10-19",
+  "solde_tresorerie_initial_mad": 6000.0,
+  "devise": "MAD",
+  "fictif": true,
+  "avertissement": "Données entièrement fictives, créées pour tester MIZAN AI. Elles ne correspondent à aucune entreprise réelle.",
+  "hypotheses": {
+    "taux_recouvrement_retard": 0.7,
+    "taux_recouvrement_contentieux": 0.3,
+    "jours_par_mois": 30,
+    "fenetre_historique_jours": 90,
+    "historique_minimum_jours": 30
+  }
+}

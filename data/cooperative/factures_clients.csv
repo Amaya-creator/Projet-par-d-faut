@@ -1,0 +1,40 @@
+﻿facture_id,client,categorie,date_emission,date_echeance,montant_mad,montant_paye_mad,cout_mad,date_paiement
+F-0003,Coopérative voisine,Miel,2026-02-07,2026-03-24,2814.83,0.0,1829.64,
+F-0001,Hôtel Atlas Agadir,Huile d'argan,2026-02-12,2026-03-14,7606.86,7606.86,4944.46,2026-03-22
+F-0002,Coopérative voisine,Amandes,2026-02-20,2026-03-22,1921.79,0.0,1249.16,
+F-0004,Coopérative voisine,Huile d'argan,2026-02-22,2026-03-24,1793.21,0.0,1165.59,
+F-0009,Grossiste Marrakech Médina,Amandes,2026-03-03,2026-04-02,14351.67,14351.67,9328.59,2026-04-02
+F-0007,Coopérative voisine,Miel,2026-03-06,2026-04-05,4481.23,0.0,2912.8,
+F-0005,Grossiste Marrakech Médina,Miel,2026-03-16,2026-04-30,9279.18,9279.18,6031.47,2026-05-08
+F-0006,Grossiste Marrakech Médina,Amandes,2026-03-16,2026-04-15,13725.79,13725.79,8921.76,2026-04-27
+F-0008,Coopérative voisine,Miel,2026-03-27,2026-05-11,3674.72,0.0,2388.57,
+F-0011,Grossiste Marrakech Médina,Miel,2026-04-02,2026-05-02,13851.64,13851.64,9003.57,2026-05-04
+F-0012,Boutique Souk El Had,Amandes,2026-04-12,2026-05-12,4350.91,4350.91,2828.09,2026-05-24
+F-0010,Coopérative voisine,Amandes,2026-04-30,2026-05-30,2910.09,1455.05,1891.56,
+F-0016,Boutique Souk El Had,Amandes,2026-05-03,2026-06-02,4643.72,4643.72,3018.42,2026-06-14
+F-0013,Boutique Souk El Had,Huile d'argan,2026-05-09,2026-06-23,5747.46,5747.46,3735.85,2026-06-28
+F-0014,Boutique Souk El Had,Huile d'argan,2026-05-13,2026-06-12,5460.38,5460.38,3549.25,2026-06-17
+F-0015,Coopérative voisine,Miel,2026-05-21,2026-07-05,3772.65,1886.33,2452.22,
+F-0022,Grossiste Marrakech Médina,Amandes,2026-06-01,2026-07-01,10622.26,10622.26,6904.47,2026-07-03
+F-0021,Grossiste Marrakech Médina,Miel,2026-06-04,2026-08-03,9805.52,9805.52,6373.59,2026-08-03
+F-0019,Coopérative voisine,Huile d'argan,2026-06-05,2026-08-04,3243.81,0.0,2108.48,
+F-0020,Coopérative voisine,Miel,2026-06-07,2026-07-07,3726.41,0.0,2422.17,
+F-0017,Coopérative voisine,Huile d'argan,2026-06-10,2026-07-10,3175.06,0.0,2063.79,
+F-0018,Hôtel Atlas Agadir,Huile d'argan,2026-06-20,2026-08-19,14168.97,14168.97,9209.83,2026-08-31
+F-0027,Grossiste Marrakech Médina,Huile d'argan,2026-07-04,2026-08-03,8923.64,8923.64,5800.37,2026-08-05
+F-0023,Coopérative voisine,Miel,2026-07-06,2026-08-20,2882.76,0.0,1873.79,
+F-0024,Épicerie fine Anfa,Amandes,2026-07-19,2026-08-18,5980.45,5980.45,3887.29,2026-08-30
+F-0025,Épicerie fine Anfa,Huile d'argan,2026-07-19,2026-09-17,7455.89,7455.89,4846.33,2026-09-25
+F-0026,Épicerie fine Anfa,Huile d'argan,2026-07-20,2026-09-03,4420.9,4420.9,2873.59,2026-09-07
+F-0029,Épicerie fine Anfa,Miel,2026-08-07,2026-09-06,8565.89,8565.89,5567.83,2026-09-06
+F-0030,Boutique Souk El Had,Miel,2026-08-15,2026-10-14,4424.6,4424.6,2875.99,2026-10-15
+F-0028,Épicerie fine Anfa,Miel,2026-08-22,2026-10-21,6339.61,0.0,4120.75,
+F-0031,Boutique Souk El Had,Amandes,2026-08-23,2026-09-22,4552.86,4552.86,2959.36,2026-09-22
+F-0033,Épicerie fine Anfa,Miel,2026-09-02,2026-10-02,8816.54,0.0,5730.75,
+F-0034,Coopérative voisine,Miel,2026-09-10,2026-11-09,2392.99,0.0,1555.44,
+F-0035,Coopérative voisine,Huile d'argan,2026-09-20,2026-10-20,2558.71,0.0,1663.16,
+F-0032,Coopérative voisine,Huile d'argan,2026-09-22,2026-10-22,3601.73,0.0,2341.12,
+F-0036,Boutique Souk El Had,Huile d'argan,2026-09-24,2026-11-08,4234.48,0.0,2752.41,
+F-0039,Grossiste Marrakech Médina,Huile d'argan,2026-10-11,2026-11-10,13379.03,0.0,8696.37,
+F-0037,Hôtel Atlas Agadir,Miel,2026-10-12,2026-12-11,10820.48,0.0,7033.31,
+F-0038,Hôtel Atlas Agadir,Huile d'argan,2026-10-16,2026-11-30,14820.08,0.0,9633.05,
